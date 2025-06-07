@@ -11,8 +11,8 @@ Questo è un prototipo videoludico realizzato in Unreal Engine, e ispirato a Met
 - Fisica asincrona rispetto a FPS
 - Cambi e animazioni fluidissimi!!!
 # I ringraziamenti
-Il supporto Joy-Con non sarebbe stato possibile grazie alla libreria JoyShockLibrary di JibbSmart.  
-E ringrazio tutti coloro che mi hanno SOPPORTATO (non supportato) durante il progetto:
+Il supporto Joy-Con non sarebbe stato possibile grazie alla libreria JoyShockLibrary (https://github.com/JibbSmart/JoyShockLibrary) di JibbSmart. E la ricostruzione degli ambienti sarebbe stata molto più impegnativa, senza Mphread (https://github.com/NoneGiven/MphRead).  
+E ringrazio tutti coloro che mi hanno SOPPORTATO (e non solo supportato) durante il progetto:
 # La BSA del Michelangelo, classe del 2006 e dintorni
 - Leonardo B.
 - Tommaso B.
@@ -21,7 +21,9 @@ E ringrazio tutti coloro che mi hanno SOPPORTATO (non supportato) durante il pro
 - **Flavio D. (betatester!)**
 - Giovanni D.
 - **Stefano F. (betatester!)**
+- Letizia F.
 - Francesco I.
+- Edoardo L.
 - Lucrezia M.
 - Michela M.
 - Riccardo M.
@@ -38,3 +40,4 @@ E tutti i meravigliosi professori!
 - La mia famiglia
 - Tutti i ragazzi dell'Open Day
 - Tutti i miei amici
+- _I wandered lonely as a cloud - "Daffodils"_, il manifesto del romanticismo inglese. Rischiara sempre la via.
