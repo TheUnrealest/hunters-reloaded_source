@@ -1,4 +1,5 @@
 # Sorgente di Hunters Reloaded
+![HighresScreenshot00011](https://github.com/user-attachments/assets/aed60b62-2c74-4d4f-893e-4126f53e2037)
 _Hunters Reloaded: non un capolavoro, "IL" capolavoro. Interpretazione didattica ispirata a Metroid Prime Hunters._
 Questo è un prototipo videoludico realizzato in Unreal Engine, e ispirato a Metroid Prime Hunters per Nintendo DS. Il prototipo contiene al momento una versione parzialmente ricostruita della Fortezza nel Vuoto.
 # Caratteristiche principali
@@ -9,7 +10,10 @@ Questo è un prototipo videoludico realizzato in Unreal Engine, e ispirato a Met
 - Menu con varie impostazioni
 - Stanza di testing
 - Fisica asincrona rispetto a FPS
-- Cambi arma e animazioni fluidissimi!!!
+- Cambi arma e animazioni fluidissimi!
+  
+![HighresScreenshot00012](https://github.com/user-attachments/assets/c915757d-0a91-4a21-aab2-07d0fec50690)
+
 # I ringraziamenti
 Il supporto Joy-Con non sarebbe stato possibile grazie alla libreria JoyShockLibrary (https://github.com/JibbSmart/JoyShockLibrary). E la ricostruzione degli ambienti sarebbe stata molto più impegnativa, senza Mphread (https://github.com/NoneGiven/MphRead).  
 E ringrazio tutti coloro che mi hanno SOPPORTATO (e non solo supportato) durante il progetto:
