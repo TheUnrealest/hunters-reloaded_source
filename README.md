@@ -38,7 +38,8 @@ E ringrazio tutti coloro che mi hanno SOPPORTATO (e non solo supportato) durante
 - Matteo P.
 - Elena P.
 - **Nazar S. (betatester!)**
-- Andrea S.  
+- Andrea S.
+- Giulia Y.  
 E tutti i meravigliosi professori!
 ## E senza dimenticare...
 - La mia famiglia
